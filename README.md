@@ -56,7 +56,7 @@ This repository includes examples for:
 
 ### Distribution Charts
 * Histograms
-    * * Density Plots
+  * Density Plots
 * Box Plots
 * Violin Plots
 
