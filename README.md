@@ -1,5 +1,7 @@
 # Data Visualization Fundamental: From Data to Story
 
+<img src="../images/dv_banner.png">
+
 This repository was designed for anyone interested in learning how to communicate insights through data visualization. A visualization is not successful because it looks beautiful; it is successful because it helps someone understand something they did not understand before. Start with the story, then choose the visualization.
 
 ---
