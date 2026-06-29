@@ -78,7 +78,7 @@ We will mainly be using Python for data manipulation and visualization. We will 
 * Python 3.10+
 * Jupyter Notebook or Jupyter Lab
 * Google Sheets
-* Pandas (Python library to work with DataFrame)
+* [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) (Python library to work with DataFrame)
 * NumPy (Python library)
 * Matplotlib (Python library use for static visualizations and produces publication-quality figures and scientific graphs)
 * Plotly (Python library use to make interactive visualization framework useful for dashboard and interactive exploration)
